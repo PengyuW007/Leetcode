@@ -17,3 +17,5 @@ BuildArray is the file/question's name
 1. You can note what you think when you are doing the question
 
 2. $ before file name, means this question hasn't done yet.(eg. $xxx_1000)
+
+3. Highly recommend you to follow the decreasing rate of pass, to do practice.
