@@ -1,6 +1,6 @@
 package Mid;
 
-public class CountPoints_1828 {
+public class $CountPoints_1828 {
     public static void main(String[] args) {
 
     }
