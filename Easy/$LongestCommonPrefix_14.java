@@ -2,7 +2,7 @@ package Easy;
 
 import java.util.*;
 
-public class LongestCommonPrefix_14 {
+public class $LongestCommonPrefix_14 {
     public static void main(String[] args) {
         String strs[] = {"flower", "flow", "flight"};
 

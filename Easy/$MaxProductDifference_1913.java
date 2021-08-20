@@ -1,6 +1,6 @@
 package Easy;
 
-public class MaxProductDifference_1913 {
+public class $MaxProductDifference_1913 {
     public static void main(String[] args) {
             int nums[]={5,6,2,7,4};
 
