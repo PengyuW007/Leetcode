@@ -29,7 +29,7 @@ public class $LongestCommonPrefix_14 {
             compSize = Math.min(strCurr.length(), stSize);
 
             for (int j = 0; j < compSize; j++) {
-               // System.out.println(strCurr.charAt(j)+" "+st.get(j));
+                System.out.println(strCurr.charAt(j)+" "+st.get(j));
                 //System.out.println();
 
                 if(strCurr.charAt(j)!=st.get(j)){
