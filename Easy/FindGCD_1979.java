@@ -5,7 +5,7 @@ import java.util.Comparator;
 public class FindGCD_1979 {
     public static void main(String[] args) {
         int nums[] ={2,5,6,9,10};
-        System.out.println(findGCD2(nums));;
+        System.out.println(findGCD1(nums));;
     }
 
     public static int findGCD1(int[] nums) {
@@ -30,7 +30,9 @@ public class FindGCD_1979 {
         return max;
     }
 
+    //tried but unsuccessful
     public static int findGCD2(int []nums){
+
         int res = 0;
         ArrayList<Integer>arr = new ArrayList<>();
 
