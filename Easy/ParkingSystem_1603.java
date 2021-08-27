@@ -33,21 +33,21 @@ class ParkingSystem {
         if(carType == 1){
             //big
             if(bigIndex<bi.length){
-                bi[bigIndex] = carType;
-                bigIndex++;
+                bi[bigIndex++] = carType;
+               // bigIndex++;
                 res = true;
             }
         }else if(carType ==2){
             //medium
             if(medIndex<med.length){
-                med[medIndex]=carType;
-                medIndex++;
+                med[medIndex++]=carType;
+                //medIndex++;
                 res = true;
             }
         }else if(carType == 3){
             //small
             if(smallIndex<sma.length){
-                sma[smallIndex]=carType;
+                sma[smallIndex++]=carType;
                 medIndex++;
                 res = true;
             }
