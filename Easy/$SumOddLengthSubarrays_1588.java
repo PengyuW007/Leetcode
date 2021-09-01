@@ -1,6 +1,6 @@
 package Easy;
 
-public class SumOddLengthSubarrays_1588 {
+public class $SumOddLengthSubarrays_1588 {
     public static void main(String[] args) {
 
     }
