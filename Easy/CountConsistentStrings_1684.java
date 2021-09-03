@@ -10,7 +10,7 @@ public class CountConsistentStrings_1684 {
     public static int countConsistentStrings(String allowed, String[] words) {
         int res = words.length;
         for(int i = 0;i<words.length;i++){
-           
+
         }
 
         return res;
