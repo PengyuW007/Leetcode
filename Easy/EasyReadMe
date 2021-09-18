@@ -18,6 +18,7 @@ LCP06. MinCount_LCP6 拿硬币 2021.08.30
 1480. RunningSum_1480 动态数组的和（动态规划） 2021.08.22
 1512. NumIdenticalPairs_1512 好数对的数目 2021.08.23
 1603. ParkingSystem_1603 设计停车系统 2021.08.27
+1662. ArrayStringsAreEqual_1662 检查两个字符串数组是否相等 2021.09.18
 1672. MaximumWealth_1672 最富有客户的资产总量 2021.08.23
 1678. Interpret_1678 设计Goal 解析器 2021.09.02
 1684. CountConsistentStrings_1684 统计一致字符串的数目 2021.09.07
