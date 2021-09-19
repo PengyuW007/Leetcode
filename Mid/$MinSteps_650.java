@@ -1,6 +1,6 @@
 package Mid;
 
-public class MinSteps_650 {
+public class $MinSteps_650 {
     public static void main(String[] args) {
 
     }
@@ -11,7 +11,7 @@ public class MinSteps_650 {
         res=n%2;
 
         if(res==0){
-            
+
         }
 
         return res;
