@@ -16,6 +16,7 @@ public class LengthOfLastWord_58 {
         while (index >= 0 && s.charAt(index) != ' ') {
             wordLength++;
             index--;
+
         }
         return wordLength;
     }
