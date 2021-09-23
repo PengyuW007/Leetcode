@@ -1,6 +1,6 @@
 package Easy;
 
-public class FlipAndInvertImage_832 {
+public class $FlipAndInvertImage_832 {
     public static void main(String[] args) {
 
     }
