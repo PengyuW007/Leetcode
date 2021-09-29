@@ -42,5 +42,6 @@ LCP17. Calculate_LCP17 速算机器人 2021.09.23
 1920. BuildArray 基于排列构建数组 2021.07.28
 1929. GetConcatenation 数组串联 2021.07.30
 1979. FindGCD 找出数组的最大公约数 2021.08.24
+2006. CountKDifference_2006 差的绝对值为K的数对数目 2021.09.29
 2011. FinalValueAfterOperations_2011 执行操作后的变量值 2021.09.23
 
