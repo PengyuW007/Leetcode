@@ -1,6 +1,6 @@
 package Easy;
 
-public class CountGoodTriplets {
+public class CountGoodTriplets_1534 {
     public static void main(String[] args) {
         int arr[] = {1,1,2,2,3};
         System.out.println(countGoodTriplets(arr,0,0,1));

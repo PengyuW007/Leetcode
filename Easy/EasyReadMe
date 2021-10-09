@@ -24,6 +24,7 @@ LCP17. Calculate_LCP17 速算机器人 2021.09.23
 1470. Shuffle_1470 重新排列数组 2021.08.27
 1480. RunningSum_1480 动态数组的和（动态规划） 2021.08.22
 1512. NumIdenticalPairs_1512 好数对的数目 2021.08.23
+1534. CountGoodTriplets_1534 统计好三元组 2021.10.09
 1603. ParkingSystem_1603 设计停车系统 2021.08.27
 1662. ArrayStringsAreEqual_1662 检查两个字符串数组是否相等 2021.09.18
 1672. MaximumWealth_1672 最富有客户的资产总量 2021.08.23
