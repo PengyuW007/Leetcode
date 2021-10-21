@@ -3,7 +3,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Collectors;
 
-public class MajorityElement_229 {
+public class $MajorityElement_229 {
     public static void main(String[] args) {
         List<Integer>output;
         int nums[] = {3,2,3};
