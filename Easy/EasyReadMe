@@ -1,1 +1,48 @@
 Easy
+
+OfferII42. OfferII_42 最近请求次数 2021
+
+LCP01. Game_LCP1 猜数字 2021.08.27
+LCP06. MinCount_LCP6 拿硬币 2021.08.30
+LCP17. Calculate_LCP17 速算机器人 2021.09.23
+
+13.   RomanToInt 罗马数字转整数 2021.08.19
+58.   LengthOfLastWord_58 最后一个单词的长度 2021.09.21
+292.  CanWinNim_292 Nim游戏 2021.09.18
+326.  IsPowerOfThree_326 3的幂 2021.09.23
+461.  HammingDistance_461 汉明距离 2021.09.20
+771.  NumJewelsInStones_771 宝石与石头 2021.08.24
+1108. DefangTPaddr_1108 IP地址无效化 2021.08.20
+1281. SubstractProductAndSum_1281 整数的各位积和之差 2021.08.31 辗转相除，string to int
+1290. GetDecimalValue_1290 二进制链表转整数 2021.09.20
+1295. FindNumbers_1295 统计位数为偶数的数字 2021.09.20
+1313. DecompressRLElist_1313 解压编码列表
+1342. NumberOfSteps_1342 将数字变成 0 的操作次数 2021.09.18
+1365. SmallerNumbersThanCurrent_1365 有多少小于当前数字的数字 2021.09.07
+1431. KidsWithCandies_1431 最多糖果的孩子 2021.08.26
+1450. BusyStudent_1450 在既定时间做作业的学生人数 2021.09.22
+1470. Shuffle_1470 重新排列数组 2021.08.27
+1480. RunningSum_1480 动态数组的和（动态规划） 2021.08.22
+1512. NumIdenticalPairs_1512 好数对的数目 2021.08.23
+1534. CountGoodTriplets_1534 统计好三元组 2021.10.09
+1603. ParkingSystem_1603 设计停车系统 2021.08.27
+1662. ArrayStringsAreEqual_1662 检查两个字符串数组是否相等 2021.09.18
+1672. MaximumWealth_1672 最富有客户的资产总量 2021.08.23
+1678. Interpret_1678 设计Goal 解析器 2021.09.02
+1684. CountConsistentStrings_1684 统计一致字符串的数目 2021.09.07
+1688. NumberOfMatches_1688 比赛中的配对次数 2021.09.21
+1720. Decode 解码异或后的数组 2021.08.01
+1732. LargestAltitude_1732 找到最高海拔 2021.09.28
+1773. CountMatches_1773 统计匹配检索规则的物品数量 2021.08.30
+1791. FindCenter_1791 找出星型图的中心节点 2021.09.20
+1827. MinOperations_1827 最少操作使数组递增 2021.09.25 贪心算法求解
+1837. SumBase_1837 K 进制表示下的各位数字总和 2021.09.23
+1844. ReplaceDigits_1844 将所有数字用字符替换 2021.09.22
+1863. $SubsetXORSum_1863 找出所有子集的异或总和再求和 2021.07.30
+1913. MaxProductDifference_1913 两个数对之间的最大乘积 2021.08.01
+1920. BuildArray 基于排列构建数组 2021.07.28
+1929. GetConcatenation 数组串联 2021.07.30
+1979. FindGCD 找出数组的最大公约数 2021.08.24
+2006. CountKDifference_2006 差的绝对值为K的数对数目 2021.09.29
+2011. FinalValueAfterOperations_2011 执行操作后的变量值 2021.09.23
+
