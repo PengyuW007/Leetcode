@@ -10,8 +10,8 @@ public class MostWordsFound_2114 {
         int res = 0;
 
         for (int i = 0; i < sentences.length; i++) {
-            String sentence = sentences[i];
-            String tokens[] = sentence.split(" ");
+            //String sentence = sentences[i];
+            String tokens[] = sentences[i].split(" ");
             res = Math.max(res, tokens.length);
         }
 
