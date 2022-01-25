@@ -15,6 +15,7 @@ public class $CreateTargetArray_1389 {
 
         for(int i = 0;i< nums.length;i++){
             res[index[i]] = nums[i];
+            
         }
 
         return res;
