@@ -11,11 +11,13 @@ public class $CreateTargetArray_1389 {
     }
 
     public static int[] createTargetArray(int[] nums, int[] index) {
-        for (int i = 0; i < nums.length; i++) {
-            swap(nums[i], nums[index[i]]);
+        int []res = new int[nums.length];
+
+        for(int i = 0;i< nums.length;i++){
+            res[index[i]] = nums[i];
         }
 
-        return nums;
+        return res;
     }
 
     private static void swap(int a, int b) {
