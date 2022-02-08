@@ -8,7 +8,7 @@ public class $HammingWeight_191 {
     public static int hammingWeight(int n) {
         int res = 0;
 
-        
+
         return res;
     }
 }
