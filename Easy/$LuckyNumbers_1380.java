@@ -5,7 +5,7 @@ import java.util.List;
 
 public class $LuckyNumbers_1380 {
     public static void main(String[] args) {
-        int[][] matrix = {{7, 8}, {1, 2}};
+        int[][] matrix = {{1,10,4,2},{9,3,8,7},{15,16,17,12}};
         List<Integer> res = luckyNumbers(matrix);
 
         System.out.println(res.get(0));
