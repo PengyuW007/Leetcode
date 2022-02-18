@@ -1,6 +1,6 @@
 package Easy;
 
-public class $SortSentence_1859 {
+public class SortSentence_1859 {
     public static void main(String[] args) {
         String s = "Myself2 Me1 I4 and3";
 
