@@ -2,7 +2,7 @@ package Easy;
 
 import java.util.ArrayList;
 
-public class FreqAlphabets_1309 {
+public class $FreqAlphabets_1309 {
     public static void main(String[] args) {
 
     }
@@ -18,7 +18,7 @@ public class FreqAlphabets_1309 {
         }
 
         for(int i = 0;i<arr.size();i++){
-            
+
         }
 
         return res;
