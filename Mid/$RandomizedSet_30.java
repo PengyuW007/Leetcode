@@ -3,7 +3,7 @@ package Mid;
 import java.util.ArrayList;
 import java.util.Random;
 
-public class RandomizedSet_$30 {
+public class $RandomizedSet_30 {
     public static void main(String[] args) {
         RandomizedSet   randomSet =  new RandomizedSet();
 

@@ -1,6 +1,6 @@
 package Mid;
 
-public class MergeNodes_2181 {
+public class $MergeNodes_2181 {
     public static void main(String[] args) {
 
     }
